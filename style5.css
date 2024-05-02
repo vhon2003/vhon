@@ -1,0 +1,24 @@
+body{
+    background: aqua;
+}
+
+#btn{
+    background-color: rgb(255, 0, 0);
+    padding: 10px;
+    border-radius: 10px;
+
+}
+
+#btn:hover{
+    background: rgb(203, 19, 197);
+}
+
+
+#form{
+    background-color: rgba(208, 231, 237, 0.79);
+    width: 50%;
+    margin: 120px auto;
+    padding: 50px;
+    box-shadow: 10px 10px 5px rgba(82, 11, 77);
+    border-radius: 10px;
+}
